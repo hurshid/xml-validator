@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+    <command shortcut="elementCount" className="command.ElementCountCommand"/>
+    <command shortcut="scanxml" className="command.ScanXmlCommand"/>
+    <command shortcut="print" className="command.PintCommand"/>
+</commands>

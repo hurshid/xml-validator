@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <staff id="1">
+        <firstname>hurshid</firstname>
+        <lastname>djuraev</lastname>
+        <nickname>hurshid</nickname>
+        <age>25</age>
+    </staff>
+    <staff id="2">
+        <firstname>blabla</firstname>
+        <lastname>blabla</lastname>
+        <nickname>tom</nickname>
+        <age>15</age>
+    </staff>
+    <staff id="3">
+        <firstname>Ali</firstname>
+        <lastname>Baba</lastname>
+        <nickname>Alibaba</nickname>
+        <age>40</age>
+    </staff>
+</company>
